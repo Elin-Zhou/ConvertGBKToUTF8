@@ -1,0 +1,1 @@
+#ConvertGBKToUTF8##将GBK编码的文件转换为UTF-8* 例子按行复制的方式将java文件进行了转换
